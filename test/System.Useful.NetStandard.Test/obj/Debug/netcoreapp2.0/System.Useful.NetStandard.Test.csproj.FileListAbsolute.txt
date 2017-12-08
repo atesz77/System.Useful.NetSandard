@@ -1,0 +1,12 @@
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.AssemblyInfo.cs
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.deps.json
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.runtimeconfig.json
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.runtimeconfig.dev.json
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.pdb
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.pdb
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.pdb

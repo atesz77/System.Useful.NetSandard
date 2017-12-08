@@ -1,0 +1,8 @@
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\bin\Debug\netstandard2.0\System.Useful.NetStandard.deps.json
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\bin\Debug\netstandard2.0\System.Useful.NetStandard.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\bin\Debug\netstandard2.0\System.Useful.NetStandard.pdb
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.AssemblyInfo.cs
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.pdb

@@ -1601,5 +1601,184 @@ namespace System
 		}
 	
 		#endregion
+
+		#region ENUM
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this byte number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this sbyte number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this short number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this ushort number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this int number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this uint number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this long number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this ulong number) where T : struct, IConvertible
+		{
+			return (T)(object)number;
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to BYTE
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static Byte B(this Enum enu)
+		{
+			return Convert.ToByte(enu);
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to SBYTE
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static SByte SB(this Enum enu)
+		{
+			return Convert.ToSByte(enu);
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to INT16
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static Int16 S(this Enum enu)
+		{
+			return Convert.ToInt16(enu);
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to UINT16
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static UInt16 US(this Enum enu)
+		{
+			return Convert.ToUInt16(enu);
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to INT32
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static Int32 I(this Enum enu)
+		{
+			return Convert.ToInt32(enu);
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to UINT32
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static UInt32 UI(this Enum enu)
+		{
+			return Convert.ToUInt32(enu);
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to INT64
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static Int64 L(this Enum enu)
+		{
+			return Convert.ToInt64(enu);
+		}
+	
+
+		/// <summary>
+		/// Cast a ENUM to UINT64
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static UInt64 UL(this Enum enu)
+		{
+			return Convert.ToUInt64(enu);
+		}
+	
+		#endregion
     }
 }

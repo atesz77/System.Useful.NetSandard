@@ -95,6 +95,41 @@ foreach (var cto in allTypes) {
 
 template += "\n		#endregion";
 
+template += "\n\n		#region ENUM";
+
+foreach (var item in intTypes) {
+	template += $@"
+
+		 /// <summary>
+		/// Cast a number to ENUM
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static T E<T>(this {item} number) where T : struct, IConvertible
+		{{
+			return (T)(object)number;
+		}}
+	";
+}
+
+foreach (var cto in intTypesBox) {
+	template += $@"
+
+		/// <summary>
+		/// Cast a ENUM to {cto.ToUpper()}
+		/// </summary>
+		/// <param name='number'></param>
+		/// <returns></returns>
+		public static {cto} {allTypesShort[cto.ToLower()]}(this Enum enu)
+		{{
+			return Convert.To{cto}(enu);
+		}}
+	";
+}
+
+template += "\n		#endregion";
+
+
 template += $@"
     }}
 }}

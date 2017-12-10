@@ -1604,7 +1604,7 @@ namespace System
 
 		#region ENUM
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>
@@ -1615,7 +1615,7 @@ namespace System
 		}
 	
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>
@@ -1626,7 +1626,7 @@ namespace System
 		}
 	
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>
@@ -1637,7 +1637,7 @@ namespace System
 		}
 	
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>
@@ -1648,7 +1648,7 @@ namespace System
 		}
 	
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>
@@ -1659,7 +1659,7 @@ namespace System
 		}
 	
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>
@@ -1670,7 +1670,7 @@ namespace System
 		}
 	
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>
@@ -1681,7 +1681,7 @@ namespace System
 		}
 	
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>

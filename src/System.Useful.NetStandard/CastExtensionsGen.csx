@@ -100,7 +100,7 @@ template += "\n\n		#region ENUM";
 foreach (var item in intTypes) {
 	template += $@"
 
-		 /// <summary>
+		/// <summary>
 		/// Cast a number to ENUM
 		/// </summary>
 		/// <param name='number'></param>

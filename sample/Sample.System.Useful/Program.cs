@@ -3,6 +3,12 @@ using System.Collections.Generic;
 
 namespace Sample.System.Useful
 {
+    enum TestEnum {
+        Test1,
+        Test2,
+        Test3,
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -37,6 +43,15 @@ namespace Sample.System.Useful
             Console.WriteLine(pylist["1:3"].Join(", "));
             Console.WriteLine(pylist["0::2"].Join(", "));
             Console.WriteLine(pylist["::-1"].Join(", "));
+
+            TestEnum t = TestEnum.Test3;
+
+            Console.WriteLine(t);
+            Console.WriteLine((int)t);
+
+            var te = "Test2".ToEnum<TestEnum>();
+            Console.WriteLine(te);
+            Console.WriteLine((int)te);
         }
     }
 }

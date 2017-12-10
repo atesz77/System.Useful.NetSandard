@@ -1,0 +1,12 @@
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.deps.json
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.runtimeconfig.json
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.runtimeconfig.dev.json
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.pdb
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.pdb
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.AssemblyInfoInputs.cache
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.AssemblyInfo.cs
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.dll
+C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.pdb

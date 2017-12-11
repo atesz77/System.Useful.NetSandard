@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-  </PropertyGroup>
+    <PackageId>System.Useful.NetStandard</PackageId>
+    <PackageVersion>2.0.0.0</PackageVersion>
+    <Authors>Attila Horak</Authors>
+    <Description>Useful functions and extension based on NetStandard 2.0</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright 2017 (c) Attila H</Copyright>
+    <PackageTags>system linq net netcore netstandard core useful string systemuseful</PackageTags>
+</PropertyGroup>
 
 </Project>

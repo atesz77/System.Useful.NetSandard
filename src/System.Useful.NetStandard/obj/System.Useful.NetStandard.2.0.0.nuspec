@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>System.Useful.NetStandard</id>
+    <version>2.0.0</version>
+    <authors>Attila Horak</authors>
+    <owners>Attila Horak</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Useful functions and extension based on NetStandard 2.0</description>
+    <copyright>Copyright 2017 (c) Attila H</copyright>
+    <tags>system linq net netcore netstandard core useful string systemuseful</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\bin\Debug\netstandard2.0\System.Useful.NetStandard.dll" target="lib\netstandard2.0\System.Useful.NetStandard.dll" />
+  </files>
+</package>

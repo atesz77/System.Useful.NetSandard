@@ -7,9 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("System.Useful.NetStandard")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Attila Horak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright 2017 (c) Attila H")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Useful functions and extension based on NetStandard 2.0")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("System.Useful.NetStandard")]

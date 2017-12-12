@@ -181,10 +181,10 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\nikol\\Documents\\Sublime\\useful\\system.useful.netsandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj",
-      "projectName": "System.Useful.NetStandard",
+      "projectName": "Useful.System.NetStandard",
       "projectPath": "C:\\Users\\nikol\\Documents\\Sublime\\useful\\system.useful.netsandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nikol\\Documents\\Sublime\\useful\\system.useful.netsandard\\src\\System.Useful.NetStandard\\obj\\",

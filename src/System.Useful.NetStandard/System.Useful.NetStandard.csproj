@@ -2,8 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>System.Useful.NetStandard</PackageId>
-    <PackageVersion>2.0.0.0</PackageVersion>
+    <PackageId>Useful.System.NetStandard</PackageId>
+    <Title>Useful.System.NetStandard</Title>
+    <PackageVersion>3.0.0</PackageVersion>
     <Authors>Attila Horak</Authors>
     <Description>Useful functions and extension based on NetStandard 2.0</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>

@@ -10,3 +10,17 @@ C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.S
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.AssemblyInfo.cs
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.dll
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.pdb
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.deps.json
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.runtimeconfig.json
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.runtimeconfig.dev.json
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.dll
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\Sample.System.Useful.pdb
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.dll
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.pdb
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.csprojAssemblyReference.cache
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.csproj.CoreCompileInputs.cache
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.AssemblyInfoInputs.cache
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.AssemblyInfo.cs
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.csproj.CopyComplete
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.dll
+D:\github\System.Useful.NetSandard\sample\Sample.System.Useful\obj\Debug\netcoreapp2.0\Sample.System.Useful.pdb

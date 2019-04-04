@@ -6,3 +6,12 @@ C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Usef
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.AssemblyInfo.cs
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.dll
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.pdb
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\bin\Debug\netstandard2.0\System.Useful.NetStandard.deps.json
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\bin\Debug\netstandard2.0\System.Useful.NetStandard.dll
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\bin\Debug\netstandard2.0\System.Useful.NetStandard.pdb
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.csprojAssemblyReference.cache
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.csproj.CoreCompileInputs.cache
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.AssemblyInfoInputs.cache
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.AssemblyInfo.cs
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.dll
+D:\github\System.Useful.NetSandard\src\System.Useful.NetStandard\obj\Debug\netstandard2.0\System.Useful.NetStandard.pdb

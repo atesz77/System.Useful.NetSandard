@@ -10,3 +10,17 @@ C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Use
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.pdb
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.dll
 C:\Users\nikol\Documents\Sublime\useful\system.useful.netsandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.pdb
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.deps.json
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.runtimeconfig.json
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.runtimeconfig.dev.json
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.dll
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.pdb
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.dll
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\bin\Debug\netcoreapp2.0\System.Useful.NetStandard.pdb
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.csprojAssemblyReference.cache
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.csproj.CoreCompileInputs.cache
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.AssemblyInfoInputs.cache
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.AssemblyInfo.cs
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.csproj.CopyComplete
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.dll
+D:\github\System.Useful.NetSandard\test\System.Useful.NetStandard.Test\obj\Debug\netcoreapp2.0\System.Useful.NetStandard.Test.pdb

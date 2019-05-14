@@ -79,7 +79,7 @@ namespace Sample.System.Useful
             {
                 Console.WriteLine(item.Asd);
                 Console.WriteLine(item.Qwe);
-                Console.WriteLine(item.Jkl);
+                Console.WriteLine(item.P_Jkl);
                 Console.WriteLine();
             }
 

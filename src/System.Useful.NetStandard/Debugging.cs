@@ -97,12 +97,11 @@ namespace System
                 {
                     var propParts = item.Split('.');
                     object val = x;
-                    var pName = item;
+                    var pName = item.Replace(".", "_");
 
                     foreach (var pp in propParts)
                     {
                         val = val.GetType().GetProperty(pp).GetValue(val, null);
-                        pName = pp;
                     }
 
                     if (expandoDict.ContainsKey(pName))

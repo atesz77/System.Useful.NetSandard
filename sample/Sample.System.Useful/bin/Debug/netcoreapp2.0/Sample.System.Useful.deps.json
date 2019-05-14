@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v2.0": {
       "Sample.System.Useful/1.0.0": {
         "dependencies": {
-          "Useful.System.NetStandard": "3.1.0"
+          "Useful.System.NetStandard": "3.2.1"
         },
         "runtime": {
           "Sample.System.Useful.dll": {}
         }
       },
-      "Useful.System.NetStandard/3.1.0": {
+      "Useful.System.NetStandard/3.2.1": {
         "runtime": {
           "System.Useful.NetStandard.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Useful.System.NetStandard/3.1.0": {
+    "Useful.System.NetStandard/3.2.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

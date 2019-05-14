@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 
 namespace System
@@ -82,6 +83,35 @@ namespace System
             {
                 var val = x.GetType().GetProperty(property).GetValue(x, null);
                 return val;
+            });
+        }
+
+        public static IEnumerable<object> SelectDebugProps<T>(this IEnumerable<T> collection, params string[] properties)
+        {
+            return collection.Select(x =>
+            {
+                var expando = new ExpandoObject();
+                var expandoDict = expando as IDictionary<string, object>;
+
+                foreach (var item in properties)
+                {
+                    var propParts = item.Split('.');
+                    object val = x;
+                    var pName = item;
+
+                    foreach (var pp in propParts)
+                    {
+                        val = val.GetType().GetProperty(pp).GetValue(val, null);
+                        pName = pp;
+                    }
+
+                    if (expandoDict.ContainsKey(pName))
+                        expandoDict[pName] = val;
+                    else
+                        expandoDict.Add(pName, val);
+                }
+
+                return expando;
             });
         }
 

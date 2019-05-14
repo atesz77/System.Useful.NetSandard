@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\github\\System.Useful.NetSandard\\sample\\Sample.System.Useful\\Sample.System.Useful.csproj",
+      "projectUniqueName": "D:\\github\\System.Useful.NetSandard\\sample\\Sample.System.Useful\\Sample.System.Useful.csproj",
       "projectName": "Sample.System.Useful",
-      "projectPath": "d:\\github\\System.Useful.NetSandard\\sample\\Sample.System.Useful\\Sample.System.Useful.csproj",
+      "projectPath": "D:\\github\\System.Useful.NetSandard\\sample\\Sample.System.Useful\\Sample.System.Useful.csproj",
       "packagesPath": "C:\\Users\\horaka\\.nuget\\packages\\",
-      "outputPath": "d:\\github\\System.Useful.NetSandard\\sample\\Sample.System.Useful\\obj\\",
+      "outputPath": "D:\\github\\System.Useful.NetSandard\\sample\\Sample.System.Useful\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -710,8 +710,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "d:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj": {
-              "projectPath": "d:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj"
+            "D:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj": {
+              "projectPath": "D:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj"
             }
           }
         }

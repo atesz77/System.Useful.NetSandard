@@ -181,13 +181,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "restore": {
-      "projectUniqueName": "d:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj",
+      "projectUniqueName": "D:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj",
       "projectName": "Useful.System.NetStandard",
-      "projectPath": "d:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj",
+      "projectPath": "D:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\System.Useful.NetStandard.csproj",
       "packagesPath": "C:\\Users\\horaka\\.nuget\\packages\\",
-      "outputPath": "d:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\obj\\",
+      "outputPath": "D:\\github\\System.Useful.NetSandard\\src\\System.Useful.NetStandard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

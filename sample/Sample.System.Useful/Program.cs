@@ -9,6 +9,19 @@ namespace Sample.System.Useful
         Test3,
     }
 
+    class Medve
+    {
+        public int Asd { get; set; }
+        public string Qwe { get; set; }  
+        public Cica P { get; set; }  
+        public bool Wert { get; set; } 
+    }
+
+    class Cica 
+    {
+        public int Jkl { get; set; }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -52,6 +65,24 @@ namespace Sample.System.Useful
             var te = "Test2".ToEnum<TestEnum>();
             Console.WriteLine(te);
             Console.WriteLine((int)te);
+
+            List<Medve> testList = new List<Medve>{
+                new Medve { Asd = 10, Qwe = "Cica", Wert = true, P = new Cica { Jkl = 55 }},
+                new Medve { Asd = 20, Qwe = "Veréb", Wert = true, P = new Cica { Jkl = 66 }},
+                new Medve { Asd = 30, Qwe = "Kutya", Wert = false, P = new Cica { Jkl = 77 }},
+                new Medve { Asd = 40, Qwe = "Medve", Wert = true, P = new Cica { Jkl = 88 }},
+            };
+
+            var testSelect = testList.SelectDebugProps("Asd", "Qwe", "P.Jkl");
+
+            foreach (dynamic item in testSelect)
+            {
+                Console.WriteLine(item.Asd);
+                Console.WriteLine(item.Qwe);
+                Console.WriteLine(item.Jkl);
+                Console.WriteLine();
+            }
+
         }
     }
 }
